@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0b,100:1f1f1f&height=180&section=header&text=goteoxyz&fontSize=42&fontColor=eaeaea&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070a,100:0ea5e9&height=200&section=header&text=goteoxyz&fontSize=44&fontColor=f8fafc&animation=fadeIn" />
 </p>
 
 <p align="center">
-  building quietly.
+  systems · automation · backend
 </p>
